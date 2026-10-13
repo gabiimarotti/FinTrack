@@ -1,0 +1,36 @@
+# Compilação Java e Maven
+target/
+build/
+out/
+*.class
+
+# Configurações locais dos editores
+.idea/
+*.iml
+.vscode/
+
+# Segredos e configurações específicas da máquina
+.env
+.env.*
+!.env.example
+application-local.properties
+application-local.yml
+application-local.yaml
+*.pem
+*.key
+
+# Dados financeiros reais, backups e diretório ativo do banco
+dados-reais/
+backups/
+mysql-data/
+*.dump
+
+# Arquivos gerados e temporários
+logs/
+*.log
+tmp/
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# Scripts SQL e dados fictícios intencionais devem ser versionados.
