@@ -17,7 +17,7 @@ O fluxo aprovado usa o botão **Salvar**, seguido de uma pergunta sobre confirma
 
 ## Organização inicial
 
-`docs/` contém a documentação. `exercicios/` contém um exemplo introdutório anteriormente preparado, que é opcional e não faz parte do caminho obrigatório. `.gitignore` prepara as exclusões do versionamento, incluindo `build/`, onde ficam os resultados da compilação. Os passos de execução da aplicação serão registrados conforme seus incrementos forem implementados.
+`docs/` contém a documentação. O exercício introdutório foi removido; o aprendizado seguirá a implementação das funcionalidades do FinTrack. `.gitignore` prepara as exclusões do versionamento, incluindo `build/`, onde ficam os resultados da compilação. Os passos de execução da aplicação serão registrados conforme seus incrementos forem implementados.
 
 O histórico Git local foi iniciado na branch `main`. O repositório público é [gabiimarotti/FinTrack](https://github.com/gabiimarotti/FinTrack), destinado ao código e aos exemplos fictícios. Os dados do contrato pessoal na documentação foram substituídos por um exemplo fictício. O primeiro registro reúne a documentação, as exclusões de arquivos e o exemplo introdutório opcional; o código do domínio ainda será implementado.
 
